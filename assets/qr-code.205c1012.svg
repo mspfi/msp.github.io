@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180px" height="180px" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>qr-code</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="qr-code" fill="#1EE3CF" fill-rule="nonzero">
+            <polygon id="形状结合" points="20 7.97644834e-13 20 2 2 2 2 20 4.54747351e-13 20 4.54747351e-13 3.41060513e-13"></polygon>
+            <polygon id="形状结合备份" transform="translate(170.000000, 10.000000) rotate(90.000000) translate(-170.000000, -10.000000) " points="180 3.99740902e-13 180 2 162 2 162 20 160 20 160 -5.68434189e-14"></polygon>
+            <polygon id="形状结合备份-2" transform="translate(170.000000, 170.000000) rotate(-180.000000) translate(-170.000000, -170.000000) " points="180 160 180 162 162 162 162 180 160 180 160 160"></polygon>
+            <polygon id="形状结合备份-3" transform="translate(10.000000, 170.000000) rotate(-90.000000) translate(-10.000000, -170.000000) " points="20 160 20 162 2 162 2 180 0 180 0 160"></polygon>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="18px" viewBox="0 0 22 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>menu-liquidity</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="menu-liquidity" fill-rule="nonzero">
+            <path d="M9.66186225,2.91955858 C8.13216305,1.3921205 6.06332061,0.4189343 3.45533499,0 L12.6283996,9.26957083 C12.1804072,6.56366741 11.1915614,4.44699667 9.66186225,2.91955858 Z" id="路径-3" fill="#FFFFFF"></path>
+            <rect id="矩形" fill="#FFFFFF" transform="translate(5.656854, 6.910882) rotate(45.000000) translate(-5.656854, -6.910882) " x="4.65685425" y="-0.08911807" width="2" height="14"></rect>
+            <polygon id="路径-4" fill="#1EE3CF" points="9.92186935 13.3685842 8.58693575 12.3972288 4.11886082 17.9261134 21.0481295 17.9261134 20.2313588 15.1616711 14.095017 8.92611343"></polygon>
+        </g>
+    </g>
+</svg>
